@@ -9,7 +9,7 @@ ${data.description}
 ## Table of Contents
 1. [Installations](#installations)
 2. [Usage](#usage)
-3. [Contributions](#contributions)
+3. [Contributing](#contributing)
 4. [Tests](#tests)
 5. [License](#license)
 6. [Questions](#questions)
@@ -20,8 +20,8 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-## Contributions
-${data.contribution}
+## Contributing
+${data.contributing}
 
 ## Tests
 ${data.test}

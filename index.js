@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'input',
         message: 'What are the contribution quidelines for your project?',
-        name: 'contribution',
+        name: 'contributing',
     },
     {
         type: 'input',
