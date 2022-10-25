@@ -77,7 +77,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What is your email address?',
+        message: 'What is your email address? (format: example@email.com)',
         name: 'email',
     },
 ];
